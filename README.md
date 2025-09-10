@@ -5,7 +5,14 @@
 </div>
 <h2 align="left">Tools I've Used</h2>
 
-<div align="left" style="background: yellow ">
+<div style="
+  background-color: yellow; 
+  padding: 10px; 
+  display: flex; 
+  align-items: center;
+  gap: 12px;
+  border-radius: 10px;
+">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
