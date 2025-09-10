@@ -10,7 +10,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
 
-  
+<div style="
+  width: 60px; 
+  height: 60px; 
+  background-color: #FFD700; 
+  border-radius: 50%; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" 
+       alt="express logo" 
+       style="height: 35px; width: auto;" />
+</div>
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
 
