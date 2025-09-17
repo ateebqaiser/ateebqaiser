@@ -1,10 +1,11 @@
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ateebqaiser&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ateebqaiser&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=86400&token=YOUR_PERSONAL_TOKEN" height="150" alt="stats graph" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ateebqaiser&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ateebqaiser&layout=compact&langs_count=6&theme=dracula&cache_seconds=86400&token=YOUR_PERSONAL_TOKEN" height="150" alt="languages graph" />
 </div>
+
 
 ## Tools I've Used
 
